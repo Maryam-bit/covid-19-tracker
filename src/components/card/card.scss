@@ -1,0 +1,21 @@
+@mixin paperStyle($borderChange){
+    padding: 2rem;
+    text-align: center;
+    color: #535353 !important;
+    border-bottom: 8px solid $borderChange;
+}
+
+.paper1{
+    @include paperStyle(#123c69);
+    @include paperStyle(#ff6e6e);
+}
+.paper2{
+    @include paperStyle(#bab2b5);
+    @include paperStyle(#1f6cbf);
+    @include paperStyle(#123c69);
+}
+.paper3{
+    @include paperStyle(#ac3b61);
+    @include paperStyle(#a86eff);
+    @include paperStyle(#6effb1);
+}
