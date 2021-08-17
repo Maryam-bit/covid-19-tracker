@@ -1,12 +1,8 @@
-![image](https://user-images.githubusercontent.com/56764144/129698469-d050a8d4-ff5b-4a87-a797-2a0d539642b0.jpg)
-![image](https://user-images.githubusercontent.com/56764144/129698488-a3376ba5-adf5-4809-aaed-118c7e676818.png)
-![image-removebg-preview](https://user-images.githubusercontent.com/56764144/129698640-913e99f9-3f0c-4567-876b-d6919377fde2.png)
-
 <!-- PROJECT LOGO -->
 <!-- <br /> -->
 <div align="center">
 
-  <img src="https://user-images.githubusercontent.com/56764144/129698640-913e99f9-3f0c-4567-876b-d6919377fde2.png" alt="Expense Tracker in Redux" width="100">
+  <img src="https://user-images.githubusercontent.com/56764144/129698640-913e99f9-3f0c-4567-876b-d6919377fde2.png" alt="Expense Tracker in Redux" width="120">
   <h1 align="center">EXPENSE TRACKER APP IN CONTEXT API</h1>
 </div>
 
