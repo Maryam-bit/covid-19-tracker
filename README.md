@@ -1,8 +1,9 @@
+
 <!-- PROJECT LOGO -->
 <!-- <br /> -->
 <div align="center">
   
-  <img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/s180x540/229164021_579762206356867_1593527731942757116_n.png?_nc_cat=101&ccb=1-5&_nc_sid=aee45a&_nc_ohc=BEVgG8ydZ10AX-xJhIs&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=f8976f0eb6e5df64f46b56438bf3c1d6&oe=613FFAA6" alt="Expense Tracker in Redux" width="100">
+  <img src="https://user-images.githubusercontent.com/56764144/129697981-847c60b2-905d-4a79-a8e1-bdbea306fa1c.png" alt="Expense Tracker in Redux" width="100">
 
   <h1 align="center">EXPENSE TRACKER APP IN CONTEXT API</h1>
 </div>
