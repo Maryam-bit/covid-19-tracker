@@ -3,7 +3,7 @@
 <div align="center">
 
   <img src="https://user-images.githubusercontent.com/56764144/129698640-913e99f9-3f0c-4567-876b-d6919377fde2.png" alt="Expense Tracker in Redux" width="120">
-  <h1 align="center">EXPENSE TRACKER APP IN CONTEXT API</h1>
+  <h1 align="center">Covid-19 Tracker</h1>
 </div>
 
 
@@ -11,7 +11,7 @@
 ## ABOUT THE PROJECT
 This Project is Made for practicing purpose.
 
-![image](https://user-images.githubusercontent.com/56764144/129441168-e3ef2a72-921e-4b43-b760-7bf0d2d82042.PNG)
+![pic2](https://user-images.githubusercontent.com/56764144/129699116-0688b909-abcb-4ad3-af46-ba3eb4abd7fb.PNG)
 
 
 ## LINK 
