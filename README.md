@@ -36,11 +36,11 @@ Following are the technologies that I used in this project(shoe store)
 
 ## INSTALLATION
 
-1. one the repo
+1. clone the repo https://github.com/Maryam-bit/covid-19-tracker.git
    ```sh
    git clone 
    ```
-2. stall NPM packages
+2. istall NPM packages
    ```sh
    npm install
    ```
