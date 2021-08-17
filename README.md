@@ -15,7 +15,7 @@ This Project is Made for practicing purpose.
 
 
 ## LINK 
-http://expense-tracker-2004.surge.sh/
+http://covid19-trakcer-2004.surge.sh/
  
  
 ## VIDEO
@@ -26,10 +26,11 @@ https://youtu.be/HllBd4jKCAg
 
 Following are the technologies that I used in this project(shoe store)
 * React JS (Javascript framework)
-* Context API
+* Material UI
 * SASS (CSS preprocessor)
 * CSS
 * Bootstrap
+* Chart.js
 
 
 
@@ -37,7 +38,7 @@ Following are the technologies that I used in this project(shoe store)
 
 1. one the repo
    ```sh
-   git clone https://github.com/Maryam-bit/expense-tracker-context-api.git
+   git clone 
    ```
 2. stall NPM packages
    ```sh
