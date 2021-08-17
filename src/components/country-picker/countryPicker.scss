@@ -1,0 +1,14 @@
+.formControl{
+    width:650px !important;
+    border: none;
+    border-bottom: 1px solid grey;
+    background-color: #fff7f7;
+    padding-bottom: 0.4rem;
+    margin-top: 1rem !important;
+    margin: 1rem !important;
+}
+@media(max-width:720px){
+    .formControl{
+        width: 400px !important;
+    }
+}

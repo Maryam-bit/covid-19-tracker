@@ -1,21 +1,27 @@
 @mixin paperStyle($borderChange){
     padding: 2rem;
-    text-align: center;
+    padding-left: 3rem;
+    padding-left: 3rem;
     color: #535353 !important;
     border-bottom: 8px solid $borderChange;
+    text-align: left !important;
+    margin: 1rem !important;
+    max-width: fit-content !important;
 }
-
 .paper1{
     @include paperStyle(#123c69);
-    @include paperStyle(#ff6e6e);
+    @include paperStyle(#123c69);
+
 }
 .paper2{
     @include paperStyle(#bab2b5);
     @include paperStyle(#1f6cbf);
-    @include paperStyle(#123c69);
+    @include paperStyle(#6effb1);
+
 }
 .paper3{
     @include paperStyle(#ac3b61);
     @include paperStyle(#a86eff);
-    @include paperStyle(#6effb1);
+    @include paperStyle(#ff6e6e);
 }
+
