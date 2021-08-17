@@ -2,7 +2,8 @@
 <!-- PROJECT LOGO -->
 <!-- <br /> -->
 <div align="center">
-  
+  ![image](https://user-images.githubusercontent.com/56764144/129697981-847c60b2-905d-4a79-a8e1-bdbea306fa1c.png)
+
   <img src="https://user-images.githubusercontent.com/56764144/129697981-847c60b2-905d-4a79-a8e1-bdbea306fa1c.png" alt="Expense Tracker in Redux" width="100">
 
   <h1 align="center">EXPENSE TRACKER APP IN CONTEXT API</h1>
